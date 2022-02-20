@@ -39,10 +39,19 @@ To create a project folder/file in:
 - You can reveal the project panel by placing your cursor on the left hand edge of the window around the middle and clicking on the **>** icon.
 
 ![Atom Text Editor’s project panel](/assets/images/atom-1-project-pane.jpg)
+{:.figure}
+Atom Text Editor’s project panel
+{:.figDesc}
 
 ![Hide the project panel in Atom Text Editor](/assets/images/atom-2-project-hide.jpg)
+{:.figure}
+Hide the project panel in Atom Text Editor
+{:.figDesc}
 
 ![Reveal the project panel in Atom Text Editor](/assets/images/atom-3-project-reveal.jpg)
+{:.figure}
+Reveal the project panel in Atom Text Editor
+{:.figDesc}
 
 ### oXygen
 
@@ -51,8 +60,14 @@ To create a project folder/file in:
 - To reveal the project panel, hover your cursor over the project tab on the left side of the window and then click the yellow (or thumbtack) button when the project panel appears. Alternatively, you reveal the panel by select **Window > Show View > Project** and then click on the yellow (or thumbtack button) when the panel appears.
 
 ![Hide oXygen XML Editor’s project panel by click on the yellow (or thumbtack) button](/assets/images/oXygen-project-hide.jpg)
+{:.figure}
+Hide oXygen XML Editor’s project panel by click on the yellow (or thumbtack) button
+{:.figDesc}
 
-![Reveal oXygen’s project panel by hovering over the project tab on the left and clicking the yellow/thumbtack button](/assets/images/oXygen-project-click-to-anchor.jpg)                    
+![Reveal oXygen’s project panel by hovering over the project tab on the left and clicking the yellow/thumbtack button](/assets/images/oXygen-project-click-to-anchor.jpg)
+{:.figure}
+Reveal oXygen’s project panel by hovering over the project tab on the left and clicking the yellow/thumbtack button
+{:.figDesc}                  
 
 ## 2. Create TEI file from a template
 
@@ -163,7 +178,10 @@ Select **Repository > Pull** to pull any changes from the remote repository on G
 
 Click on **Changes**. If you saved your new file within your repository folder, you should see it listed. It have a green plus next to it on the right, indicating that it’s a new file. For the changes to be committed into your repository, you need to ensure that the checkbox to the left of the filename is checked.
 
-![Committing a file in GitHub Desktop](/assets/images/githubDesktop-changes.jpg) Committing a file in GitHub Desktop
+![Committing a file in GitHub Desktop](/assets/images/githubDesktop-changes.jpg)
+{:.figure}
+Committing a file in GitHub Desktop
+{:.figDesc}
 
 Once you have selected all the files that you want to commit, you need to enter a small summary describing the commit. This is done in a field underneath the file list towards the bottom left of the window. If this field doesn’t already contain something meaningful, enter a short description of your own.
 
